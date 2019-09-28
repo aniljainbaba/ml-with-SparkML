@@ -6,6 +6,9 @@ The repository is recreated with the purpose of explaining different machine lea
 >The project is a maven project. After checking you the project, it is built using the below command
 
 >```mvn clean install ```
+
+>**Problem statement**: Classify students based on their knowledge level into very_low, low, medium or high categories. 
+
 2. **clustering-using-K-means-algorithm**
 >This is a java project explaining  clustering using K-Means algorithm.
 
