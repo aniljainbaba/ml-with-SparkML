@@ -9,8 +9,6 @@ The repository is recreated with the purpose of explaining different machine lea
 >```mvn clean install ```
 
 >The project has the below folder structure which is a standard maven project structure
-
->clustering-using-K-means-algorithm
  * Data - contains the data file **OnlineRetail.csv**  which is the input file and contains the various attributes such as InvoiceDate, UnitPrice, CustomerID etc
  * src 
  * pom.xml
